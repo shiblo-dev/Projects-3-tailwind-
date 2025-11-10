@@ -1,4 +1,4 @@
-# created Abacus Convention Center website
+# created Hockey’s website
 
 ## uses technologies
 
